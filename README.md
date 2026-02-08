@@ -49,8 +49,6 @@ Full Stack Developer specializing in Angular, with strong backend experience in 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pckalyan8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pckalyan8&theme=tokyonight&hide_border=true)
 
 </div>
