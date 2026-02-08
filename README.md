@@ -15,7 +15,7 @@
 
 ## 💻 About Me
 
-Full Stack Developer specializing in Angular, with strong backend experience in Java Spring Boot and Python Django. Passionate about building scalable applications and writing clean, maintainable code. I explore AI, Mathematics, Physics, and Quantum Computing in my free time, and enjoy staying active through volleyball and badminton, as well as competitive gaming in Dota 2.
+I am a **Full-Stack Developer** with a deep-seated love for complex systems, whether they are built with code, math, or the laws of physics. From crafting reactive UIs in Angular to architecting robust backends in Java and Python, I enjoy solving problems at every layer of the stack.
 
 ---
 
@@ -65,17 +65,14 @@ Full Stack Developer specializing in Angular, with strong backend experience in 
 
 ---
 
+## 🚀 What I'm Up To
+
+- 🔭 **Currently working on:** Advanced reactive patterns in Angular and Spring Boot microservices.
+- 🧠 **Learning:** Quantum algorithms and Neural Networks.
+- 🎮 **Gaming:** Defending the Ancient (Dota 2).
+
 ## 🌟 Beyond Code
 
-**Exploring:** Artificial Intelligence • Mathematics • Physics • Quantum Computing
-
-**PC Gaming:** 🎮 Dota 2
+When I'm not debugging, I’m likely diving into Quantum Computing, exploring AI architectures, or losing (and occasionally winning) a match in 🎮 Dota 2.
 
 **Sports:** 🏐 Volleyball • 🏸 Badminton
-
-
-
-<!---
-pckalyan8/pckalyan8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
